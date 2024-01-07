@@ -87,7 +87,7 @@ const p = document.getElementById("p");
 let i = 0, text;
 const pesan = document.getElementById("pesan");
 
-text = "dijalan ada lampu, \n dikuburan ada hantu, \n dikerajaan ada ratu, \n tapi di hatiku... \n cuma ada kamu, jiakhhh <3333";
+text = "dijalan ada lampu, \n dikuburan ada hantu, \n dikerajaan ada ratu, \n tapi di hatiku... \n cuma ada kamu. \n jiakhhh <3333";
 
 function mengetik() {
   if (i < text.length) {
